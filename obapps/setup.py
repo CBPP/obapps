@@ -1,12 +1,13 @@
 from distutils.core import setup
 
-setup(name='obapps',
-      version='0.1.7',
-      description='Openbox Applications Editor',
-      url='http://obapps.sourceforge.net',
-      license='MIT',
-      author='Eric Bohlman',
-      author_email='ericbohlman@gmail.com',
-      scripts=['obapps'],
-      py_modules=['obaxutils']
-    )
+setup(
+    name="obapps3",
+    version="0.2.3",
+    description="Openbox Applications Editor",
+    url="https://github.com/gCurse/obapps3",
+    license="MIT",
+    author="Eric Bohlman",
+    author_email="ericbohlman@gmail.com",
+    scripts=["obapps"],
+    py_modules=["obaxutils"],
+)
