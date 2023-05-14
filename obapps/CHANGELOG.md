@@ -1,3 +1,9 @@
+#### 0.2.5 (2022-03-29):
+* Added "_OB_APP_TITLE" property
+
+#### 0.2.4 (2021-05-16):
+* Fixes #3: OBApps crashes on start with wxPython v4.1.1
+
 #### 0.2.3 (2021-04-15):
 * Fixes #2: OBApps fails to launch if there is no application tag in the applications-section of rc.xml
 
